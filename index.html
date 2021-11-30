@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MCA | Sharanam Chotai</title>
+    <link rel="stylesheet" href="/public/css/styles.css" />
+    <link rel="stylesheet" href="/public/css/openClasses.css" />
+</head>
+<script>
+    document.addEventListener('keydown', keyAffair);
+    let keys = {
+        Period() {
+            (window.open("https://github.dev/Sharanam/GHP_MCA", "_blank"))
+        },
+        Slash() {
+            (window.open("https://github.com/Sharanam/GHP_MCA", "_blank"))
+        },
+        // KeyF() {
+        //     console.log("F");
+        // },
+        // KeyW() {
+        //     window.scrollBy(0, -10);
+        // },
+        // KeyA() {
+        //     window.scrollBy(-10, 0);
+        // },
+        // KeyS() {
+        //     window.scrollBy(0, 10);
+        // },
+        // KeyD() {
+        //     window.scrollBy(10, 0);
+        // },
+    }
+
+    function keyAffair(e) {
+        if (!(e.altKey || e.ctrlKey || e.metaKey) && e.code in keys) keys[e.code]();
+    }
+</script>
+
+<body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>

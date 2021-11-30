@@ -1,0 +1,16 @@
+{
+    "name": "mca",
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "devDependencies": {
+        "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+        "svelte": "^3.37.0",
+        "svelte-navigator": "^3.1.5",
+        "vite": "^2.6.4"
+    }
+}
