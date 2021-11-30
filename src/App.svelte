@@ -3,16 +3,16 @@
   import Navbar from "./lib/common/navbar.svelte";
   import Footer from "./lib/common/footer.svelte";
   import Home from "./lib/home/fin.svelte";
+  import Sem1 from "./lib/sem1/fin.svelte";
   import NotFound from "./lib/404/notFound.svelte";
 
   let routes = [
     { path: "/", component: Home },
-    { path: "/sem1", component: Home },
+    { path: "/sem1", component: Sem1 },
   ];
 </script>
 
 <Router primary={false}>
-  <div class="container">
     <Navbar />
     <main>
       {#each routes as route}
@@ -21,7 +21,6 @@
       <Route component={NotFound} />
     </main>
     <Footer />
-  </div>
 </Router>
 
 <style>

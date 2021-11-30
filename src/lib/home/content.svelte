@@ -1,5 +1,6 @@
 <script>
     import Box from "../common/glassBox.svelte";
+    import { Link } from "svelte-navigator";
 </script>
 
 <div class="cont">
@@ -7,6 +8,9 @@
         <div>
             <h2 class="mb-3">Materials Here</h2>
             <p style="color:brown;">Site under construction.</p>
+            <Link to="/sem1">
+                Sem 1
+            </Link>
         </div>
     </Box>
 </div>
