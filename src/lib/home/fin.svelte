@@ -1,9 +1,9 @@
 <script>
-    import Content from "./content.svelte";
+    import Schedule from "../sem1/schedule/fin.svelte";
 </script>
 
 <div>
-    <Content />
+    <Schedule />
 </div>
 
 <style>
