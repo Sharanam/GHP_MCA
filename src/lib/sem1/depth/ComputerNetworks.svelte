@@ -1,5 +1,5 @@
 <script>
-    import Box from "../common/glassBox.svelte";
+    import Box from "../../common/glassBox.svelte";
 </script>
 
 <div class="cont">

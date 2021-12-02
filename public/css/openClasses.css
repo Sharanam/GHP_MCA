@@ -1,17 +1,13 @@
-.mb-1 {
-    margin-bottom: 5px;
-}
-
-.mb-2 {
-    margin-bottom: 10px;
-}
-
-.mb-3 {
+.mb {
     margin-bottom: 15px;
 }
 
-.mb-4 {
-    margin-bottom: 20px;
+div.overflow {
+    overflow: scroll;
+}
+
+div.overflow::-webkit-scrollbar {
+    display: none;
 }
 
 button.btn {
@@ -21,4 +17,8 @@ button.btn {
     font-weight: bold;
     color: currentColor;
     cursor: help;
+}
+
+a {
+    color: currentColor;
 }
