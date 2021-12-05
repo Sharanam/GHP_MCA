@@ -1,7 +1,7 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="DBMS">
+<Link to="sem1/DBMS">
     <h4>
         DBMS
     </h4>

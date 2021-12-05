@@ -1,11 +1,11 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="Networks">
+<Link to="sem1/CF-DBC">
     <h4>
-        Networks
+        CF
     </h4>
     <h5>
-        PVV
+        DBC
     </h5>
 </Link>

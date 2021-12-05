@@ -3,7 +3,8 @@
 }
 
 div.overflow {
-    overflow: scroll;
+    overflow: -moz-scrollbars-vertical;
+    overflow: auto;
 }
 
 div.overflow::-webkit-scrollbar {
@@ -21,4 +22,38 @@ button.btn {
 
 a {
     color: currentColor;
+}
+
+a.googleMeetButton {
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+}
+
+a.googleMeetButton:hover {
+    background-color: rgba(204, 204, 204, 0.5);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+a.googleMeetButton:active {
+    box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 35px -3px rgba(0, 0, 0, 0.75);
+}
+
+td[colspan="6"] {
+    background-color: rgb(218, 177, 191, 0.2);
+}
+
+thead td {
+    background-color: rgb(218, 177, 191, 0.3);
+}
+
+tr td.time {
+    background-color: rgb(218, 177, 191, 0.2);
 }

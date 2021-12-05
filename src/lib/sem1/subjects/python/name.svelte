@@ -1,11 +1,11 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="Fundamentals_DBC">
+<Link to="sem1/Python">
     <h4>
-        Fundamentals
+        Python
     </h4>
     <h5>
-        DBC
+        BBP
     </h5>
 </Link>

@@ -5,6 +5,7 @@
 <style>
     div.container {
         padding: 15px;
+        margin:5px;
         min-width: 6rem;
         min-height: 6rem;
         display: flex;
