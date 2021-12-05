@@ -1,7 +1,7 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="OS">
+<Link to="sem1/OS-JVS">
     <h4>
         OS
     </h4>

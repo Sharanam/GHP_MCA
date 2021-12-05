@@ -1,11 +1,11 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="Fundamentals_PSS">
+<Link to="sem1/CN">
     <h4>
-        Fundamentals
+        CN
     </h4>
     <h5>
-        PSS
+        PVV
     </h5>
 </Link>

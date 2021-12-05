@@ -1,11 +1,11 @@
 <script>
     import {Link} from "svelte-navigator";
 </script>
-<Link to="Python">
+<Link to="sem1/CF-PSS">
     <h4>
-        Python
+        CF
     </h4>
     <h5>
-        BBP
+        PSS
     </h5>
 </Link>

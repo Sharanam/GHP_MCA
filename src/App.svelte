@@ -3,12 +3,12 @@
   import Navbar from "./lib/common/navbar.svelte";
   import Footer from "./lib/common/footer.svelte";
   import Home from "./lib/home/fin.svelte";
-  import Sem1 from "./lib/sem1/depth/fin.svelte";
+  import Sem1 from "./lib/sem1/routes.svelte";
   import NotFound from "./lib/404/notFound.svelte";
 
   let routes = [
     { path: "/", component: Home },
-    { path: "/sem1", component: Sem1 },
+    { path: "/sem1/*", component: Sem1 },
   ];
 </script>
 
