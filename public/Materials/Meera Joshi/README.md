@@ -1,0 +1,1 @@
+```New doc 12-Oct-2021 12.24 pm.pdf``` contains old question papers of semester 1 internal exams. Courtesy goes to Meera Joshi, who shared the PDF copy of the question papers taken from the library.
