@@ -1,0 +1,21 @@
+{
+    "name": "MCA",
+    "short_name": "MCA",
+    "description": "MCA || Sharanam Chotai",
+    "icons": [{
+        "src": "favicon.ico",
+        "type": "image/ico"
+    }],
+    "display": "fullscreen",
+    "background_color": "#ba4aff",
+    "theme_color": "#ba4aff",
+    "start_url": "/",
+    "orientation": "portrait",
+    "display_mode": "standalone",
+    "shortcuts": [{
+        "name": "Semester 1",
+        "short_name": "Sem-1",
+        "description": "Opens Semester-1 Page",
+        "url": "/sem1"
+    }]
+}
