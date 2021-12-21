@@ -1,49 +1,49 @@
 <script>
     const schedule = [
         {
-            date: "08/01/2022",
+            date: "01/01/2022",
             subject: {
                 code: "51",
                 name: "Python Programming",
             },
         },
         {
-            date: "10/01/2022",
+            date: "03/01/2022",
             subject: {
                 code: "52",
                 name: "Computer Networks",
             },
         },
         {
-            date: "11/01/2022",
+            date: "04/01/2022",
             subject: {
                 code: "53",
                 name: "DBMS",
             },
         },
         {
-            date: "12/01/2022",
+            date: "05/01/2022",
             subject: {
                 code: "54",
                 name: "Operating Systems",
             },
         },
         {
-            date: "13/01/2022",
+            date: "06/01/2022",
             subject: {
                 code: "55",
                 name: "Computer Fundamentals",
             },
         },
         {
-            date: "18/01/2022",
+            date: "08/01/2022",
             subject: {
                 code: "56",
                 name: "DBMS & OS",
             },
         },
         {
-            date: "19/01/2022",
+            date: "10/01/2022",
             subject: {
                 code: "57",
                 name: "Python Programming",
