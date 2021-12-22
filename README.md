@@ -17,4 +17,4 @@
 (Mainly the assignments in this repo are done by me. However, it can also contain stuff done by others.)
 
 # Deployment
-[https://ghp-mca.netlify.app/](https://ghp-mca.netlify.app/)
+[https://sharanam.netlify.app/](https://sharanam.netlify.app/)

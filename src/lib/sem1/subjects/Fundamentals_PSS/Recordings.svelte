@@ -28,11 +28,11 @@
             "https://drive.google.com/file/d/1gw65vCKWB0Owv7pKQwd-QJxRcAmmn8eP/view?usp=sharing",
         ],
         [
-            "Queue , operations, examples, applications, and variations",
+            "Queue, operations, examples, applications, and variations",
             "https://drive.google.com/file/d/1cd3Mi3SNKb-cdxJl0Nj59MmcrD6HvLIc/view?usp=sharing",
         ],
         [
-            "Queue , operations, examples, applications, and variations",
+            "Queue, operations, examples, applications, and variations",
             "https://drive.google.com/file/d/1j5AP2Cilof4nVvVkKsg2HGsnC_VQBPE_/view?usp=sharing",
         ],
         [
@@ -48,7 +48,7 @@
             "https://drive.google.com/file/d/1aUvvER4YtiobcRXn9oqXNgENy7XNMC8W/view?usp=sharing",
         ],
         [
-            "Hashing, Searching and Sorting ,",
+            "Hashing, Searching and Sorting,",
             "https://drive.google.com/file/d/1Wq7VH24zboUryW0y6ZyEPYNOe8ag7qFv/view?usp=sharing",
         ],
         [
@@ -56,7 +56,7 @@
             "https://drive.google.com/file/d/12UkEL_qXQYXdT2p7HT60K99adNPS_zpP/view?usp=sharing",
         ],
         [
-            "Logic Gates , And, Or, and Not Gates with Block or Transfer a Word",
+            "Logic Gates, And, Or, and Not Gates with Block or Transfer a Word",
             "https://drive.google.com/file/d/1Hfq7hiu1db5MG2L1mxMCM7cCRuy0MtoO/view?usp=sharing",
         ],
     ];

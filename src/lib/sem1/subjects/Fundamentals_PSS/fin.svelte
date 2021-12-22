@@ -6,7 +6,7 @@
 
 <Box>
     <div>
-        <h1>Computer Fundamentals</h1>
+        <h1>Computer Fundamentals (PSS)</h1>
         <Link />
         <Recordings />
     </div>
