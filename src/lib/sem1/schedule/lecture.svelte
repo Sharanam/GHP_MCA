@@ -33,10 +33,10 @@
             <td>
                 <DBMS />
             </td>
-            <td>
+            <td style="background-color:salmon">
                 <OS_JVS />
             </td>
-            <td>
+            <td style="background-color:salmon">
                 <OS_JVS />
             </td>
             <td>
@@ -74,8 +74,8 @@
         </tr>
         <tr>
             <td class="time">4-5 PM</td>
-            <td />
-            <td />
+            <td style="background-color:salmon" title="This lecture is introduced as an emergency lectures since 22nd December, 2021."><OS_JVS /></td>
+            <td style="background-color:salmon" title="This lecture is introduced as an emergency lectures since 22nd December, 2021."><OS_JVS /></td>
             <td><CN /></td>
             <td><CN /></td>
             <td />
