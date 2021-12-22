@@ -5,7 +5,7 @@
 
 <Box>
     <div>
-        <h1>Computer Fundamentals</h1>
+        <h1>Computer Fundamentals (DBC)</h1>
         <Link />
     </div>
 </Box>

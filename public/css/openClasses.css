@@ -2,6 +2,11 @@
     margin-bottom: 15px;
 }
 
+.my {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
 div.overflow {
     overflow: -moz-scrollbars-vertical;
     overflow: auto;
@@ -56,4 +61,15 @@ thead td {
 
 tr td.time {
     background-color: rgb(218, 177, 191, 0.2);
+}
+
+li {
+    list-style-position: inside;
+}
+
+div.innerSection {
+    margin: 20px 2px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
 }
