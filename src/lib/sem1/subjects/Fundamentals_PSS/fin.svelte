@@ -2,6 +2,7 @@
     import Link from "./Link.svelte";
     import Box from "../../../common/glassBox.svelte";
     import Recordings from "./Recordings.svelte";
+    import Content from "./Content.svelte";
 </script>
 
 <Box>
@@ -9,6 +10,7 @@
         <h1>Computer Fundamentals (PSS)</h1>
         <Link />
         <Recordings />
+        <Content />
     </div>
 </Box>
 
