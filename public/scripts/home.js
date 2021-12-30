@@ -15,6 +15,12 @@ let keys = {
     KeyF() {
         document.querySelector("#forward_button") && document.querySelector("#forward_button").click();
     },
+    Digit1() {
+        document.querySelector("#sem_1") && document.querySelector("#sem_1").click();
+    },
+    Numpad1() {
+        this.Digit1();
+    }
 }
 
 function keyAffair(e) {

@@ -1,7 +1,7 @@
 <script>
-    import Logo from "../../assets/logo/Logo Dark.svg";
-    import { Link, useNavigate } from "svelte-navigator";
-    const navigate = useNavigate();
+    import Logo from "../../../assets/logo/Logo Dark.svg";
+    import KeyRoutes from "./key-routes.svelte";
+    import { Link } from "svelte-navigator";
 </script>
 
 <header>
@@ -11,25 +11,10 @@
                 <img src={Logo} alt="Sharanam's Logo" class="logo" />
             </Link>
         </div>
-        <div style="display: none;">
-            <button
-                title="Go back"
-                id="back_button"
-                on:click={() => navigate(-1)}
-            >
-                &lt;-
-            </button>
-            <button
-                title="Go forward"
-                id="forward_button"
-                on:click={() => navigate(1)}
-            >
-                -&gt;
-            </button>
-        </div>
-        <Link to="/search" class="btn" style="text-decoration: none;"
-            ><h3>Search</h3></Link
-        >
+        <KeyRoutes />
+        <Link to="/search" class="btn" style="text-decoration: none;">
+            <h3>Search</h3>
+        </Link>
     </section>
 </header>
 
