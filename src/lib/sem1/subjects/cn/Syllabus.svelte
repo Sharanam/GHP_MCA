@@ -1,24 +1,23 @@
 <div class="innerSection">
-    <div class="innerSection">
-        <q title="In Official Whatsapp-Group">
-            Syllabus for Internal examination for PS01CMCA52 - Computer Networks
-            is
-            <span class="bold">
-                First two units plus introduction and issues that arise in
-                Internetworking and Routing techniques topics from unit 3.
-            </span>
-        </q>
-        : Dr. PVV
-    </div>
-    <div class="innerSection center">
-        <a
-            href="https://github.com/Sharanam/GHP_MCA/raw/master/public/Materials/Devang%20Pastagia/Computer%20Networks/MCA-I%20Computer%20Networks%20Internals.pdf"
-            title="Notes"
-            target="_blank"
-        >
-            Click here to download Internals' Notes !!!
-        </a>
-    </div>
+    <h1>Internals</h1>
+    <q title="In Official Whatsapp-Group">
+        Syllabus for Internal examination for PS01CMCA52 - Computer Networks is
+        <span class="bold">
+            First two units plus introduction and issues that arise in
+            Internetworking and Routing techniques topics from unit 3.
+        </span>
+    </q>
+    : Dr. PVV
+    <hr class="my" />
+    <a
+        href="https://github.com/Sharanam/GHP_MCA/raw/master/public/Materials/Devang%20Pastagia/Computer%20Networks/MCA-I%20Computer%20Networks%20Internals.pdf"
+        title="Notes"
+        target="_blank"
+    >
+        Click here to download Internals' Notes !!!
+    </a>
+</div>
+<div class="innerSection">
     <h1>Syllabus</h1>
     <h3>1. Introduction and Data Communication Fundamentals</h3>
     <ul>

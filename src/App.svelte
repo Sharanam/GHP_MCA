@@ -1,6 +1,6 @@
 <script>
   import { Router, Route } from "svelte-navigator";
-  import Navbar from "./lib/common/navbar.svelte";
+  import Navbar from "./lib/common/navbar/fin.svelte";
   import Footer from "./lib/common/footer.svelte";
   import Home from "./lib/home/fin.svelte";
   import Sem1 from "./lib/sem1/routes.svelte";
