@@ -3,21 +3,21 @@
     import Box from "../../common/glassBox.svelte";
 
     let subjects = [
-        "CN",
-        "DBMS",
-        "CF-DBC",
-        "CF-PSS",
-        "OS-DBC",
-        "OS-JVS",
-        "Python",
+        ["CN","Computer Networks"],
+        ["DBMS","DBMS"],
+        ["CF-DBC","Computer Fundamentals (DBC)"],
+        ["CF-PSS","Computer Fundamentals (PSS)"],
+        ["OS-DBC","Operating System (DBC)"],
+        ["OS-JVS","Operating System (JVS)"],
+        ["Python","Python"],
     ];
 </script>
 <Box>
     <div class="subjects">
         {#each subjects as subject}
             <div>
-                <Link to={subject} style="text-decoration:none;">
-                    <span class="button-text">{subject}</span>
+                <Link to={subject[0]} style="text-decoration:none;">
+                    <span class="button-text">{subject[1]}</span>
                 </Link>
             </div>
         {/each}

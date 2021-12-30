@@ -1,5 +1,6 @@
 <script>
     import Link from "./Link.svelte";
+    import Content from "./Content.svelte";
     import Box from "../../../common/glassBox.svelte";
 </script>
 
@@ -7,6 +8,7 @@
     <div>
         <h1>Computer Fundamentals (DBC)</h1>
         <Link />
+        <Content />
     </div>
 </Box>
 

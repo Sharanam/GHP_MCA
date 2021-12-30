@@ -4,10 +4,10 @@
 
 <Box>
     <a
-        href="https://github.com/Sharanam/GHP_MCA/raw/master/public/Materials/Shared%20on%20Web/spuvvn.edu/Syllabus/MCA%20Sem%20I%20Syll.pdf"
-        alt="Syllabus in PDF File"
+        href="https://github.com/Sharanam/GHP_MCA/tree/master/public/Materials/Shared%20on%20Web/spuvvn.edu/Syllabus/Sem1%202021-22"
+        alt="Syllabus of Sem-1 MCA 2021-22"
         target="_blank"
     >
-        Download Syllabus
+        Syllabus
     </a>
 </Box>

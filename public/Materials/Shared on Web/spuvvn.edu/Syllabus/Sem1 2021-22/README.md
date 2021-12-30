@@ -1,2 +1,0 @@
-These files are downloaded from
-[https://www.spuvvn.edu/students_corner/syllabi/mca_2_year/#1638958839132-b84377fe-647a](https://www.spuvvn.edu/students_corner/syllabi/mca_2_year/#1638958839132-b84377fe-647a)
