@@ -2,6 +2,7 @@
     import Link from "./Link.svelte";
     import Syllabus from "./Syllabus.svelte";
     import Box from "../../../common/glassBox.svelte";
+    import Content from "./Content.svelte";
 </script>
 
 <Box>
@@ -9,6 +10,7 @@
         <h1>Python Programming</h1>
         <Link />
         <Syllabus />
+        <Content />
     </div>
 </Box>
 
