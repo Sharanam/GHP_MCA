@@ -1,12 +1,14 @@
 <script>
     import Link from "./Link.svelte";
     import Box from "../../../common/glassBox.svelte";
+    import Content from "./Content.svelte";
 </script>
 
 <Box>
     <div>
         <h1>Database Management System</h1>
         <Link />
+        <Content />
     </div>
 </Box>
 

@@ -5,7 +5,7 @@
 
 <Box>
     <div>
-        <h1>Operating System</h1>
+        <h1>Operating System (JVS)</h1>
         <Link />
     </div>
 </Box>
