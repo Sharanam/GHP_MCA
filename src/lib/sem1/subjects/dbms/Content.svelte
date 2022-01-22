@@ -1,5 +1,4 @@
 <script>
-    import Files from "./Files.svelte";
     const files = [
         {
             name: "Unit - 1 & 2 (Partial Material)",
