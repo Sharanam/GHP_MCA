@@ -9,6 +9,7 @@
     import OSDBC from "./subjects/os_DBC/fin.svelte";
     import OSJVS from "./subjects/os_JVS/fin.svelte";
     import Python from "./subjects/python/fin.svelte";
+    import QuestionPapers from "./papers/fin.svelte";
 </script>
 
 <Link to="/sem1">
@@ -19,6 +20,7 @@
         <Route path="/">
             <Subjects />
             <Syllabus />
+            <QuestionPapers />
         </Route>
         <Route path="/CN">
             <CN />
