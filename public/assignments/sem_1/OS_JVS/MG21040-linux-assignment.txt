@@ -1,0 +1,231 @@
+PID: MG21040
+Name: Sharanam Maheshbhai Chotai
+
+1. Display current directory
+pwd
+
+2. Go to home directory
+cd ~
+
+3. Create a directory called dir1
+mkdir dir1
+
+4. Go to the directory dir1
+cd dir1
+
+5. Create a file a1.txt and type some content in it
+touch a1.txt
+cat > a1.txt
+- Some content here and ctrl+c
+
+6. Display the contents of a1.txt on screen
+cat a1.txt
+
+7. Create a directory called dir2
+mkdir dir2
+
+8. Go to directory dir2
+cd dir2
+
+9. Create a file a2.txt and type some content in it
+touch a2.txt
+cat > a2.txt
+- anything I write here, must be followed by ctrl+C.
+
+10. Go to your home directory
+cd ~
+
+11. Display the contents of the file a2.txt using relative path
+cat ./dir1/dir2/a2.txt
+
+12. Display the contents of the file a2.txt using absolute path
+cat /home/sharanam/dir1/dir2/a2.txt
+
+13. Go to directory dir2
+cd dir1/dir2
+
+14. Delete the file a2.txt
+rm a2.txt
+
+15. Go to the parent directory
+cd ..
+
+16. Copy the file a1.txt to a3.txt
+cp a1.txt a3.txt
+
+17. Rename the directory dir2 to dir3
+mv dir2 dir3
+
+18. Rename the file a3.txt to a4.txt
+mv a3.txt a4.txt
+
+19. Move the file a4.txt to dir3
+mv a4.txt dir3
+
+20. Copy the file a1.txt to dir3
+cp a1.txt dir3
+
+21. Go to the directory dir3
+cd dir3
+
+22. Display the contents of the current directory
+ls
+
+23. Display the detailed list of the contents of the current directory
+ls -l
+
+24. Go to your home directory
+cd ~
+
+25. Display the detailed list of the contents of the directory dir3 using relative path
+ls -l ./dir1/dir3/
+
+26. Display the detailed list of the contents of the directory dir3 using absolute path
+ls -l /home/sharanam/dir1/dir3/
+
+27. Go to directory dir3
+cd dir1/dir3
+
+28. Edit the file a1.txt and change the contents
+vi a1.txt
+
+29. Delete the file a1.txt
+rm a1.txt
+
+30. Go to the parent directory of the parent directory.
+cd ../..
+
+31. Go to the directory dir1
+cd dir1
+
+32. Delete the directory dir3
+rm -r dir3
+
+33. Go to the parent directory
+cd ..
+
+34. Create a directory dir4
+mkdir dir4
+
+35. Go into dir4
+cd dir4
+
+36. Create a file a5.txt with some content
+cat > a5.txt
+
+37. Display the current directory
+pwd
+
+38. Go to your home directory
+cd ~
+
+39. Move the directory dir4 into dir1
+mv dir4 dir1/
+
+40. Delete the directory dir1 with all the contents
+rm -r dir1
+
+41. Create a variable x
+x=41
+
+42. Display the value of the variable x
+echo "$x"
+
+43. Change the value of the variable to 30
+x=30
+
+44. Assign the value 7 to variable y
+y=7
+
+45. Display the values of both x and y
+echo "x=$x and y=$y"
+
+46. Store the sum of x and y into the variable z
+let z=$x+$y
+
+47. Store the subtraction of x and y into the variable z
+let z=$x-$y;
+
+48. Store the multiplication of x and y into the variable z
+let z=$x*$y
+
+49. Store the division of x and y into the variable z
+let z=$x/$y
+
+50. Store the remainder of the division of x and y into the variable z
+let z=$x%$y
+
+51. Store the value of z*(x+y)-5 into the variable a
+let a=z*(x+y)-5
+
+52. Display the message a={value of a} (display the actual value of a)
+echo "a=$a"
+
+53. Display all files whose name begin with b
+ls b*
+
+54. Display all files whose name begin with b and end in n
+ls b*n
+
+55.  Display all files whose name begin with b, end in n and have exactly 3 characters in between
+ls b?n
+
+56. Display all files whose names begin with 'asg'.
+ls asg*
+
+57. Display all files whose names begin with 'asg and end with .txt'
+ls asg*.txt
+
+58. Display all files whose names begin with 'asg' and have exactly two characters after that.
+ls asg??
+
+59. Display all files whose names have exactly two characters followed by .txt
+ls ??.txt
+
+60. Assign the value 10 to x and 20 to y
+x=10; y=20;
+
+61. If x is greater than y, then display 'Greater'
+if [ $x -gt $y ]; then echo "greater"; fi
+
+62. If x is less than y, then display 'Less'
+if [ $x -lt $y ]; then echo "less"; fi
+
+63. If x is greater than or equal to y, then display "Greater than or equal to"
+if [ $x -ge $y ]; then echo "Greater than or equal to"; fi
+
+64. If x is less than or equal to y, then display "Less than or equal to"
+if [ $x -le $y ]; then echo "Less than or equal to"; fi
+
+65. If x is equal to y, then display 'Equal'
+if [ $x -eq $y ]; then echo "Equal"; fi
+
+66. If x is not equal to y, then display 'Not equal'
+if [ $x -ne $y ]; then echo "Not Equal"; fi
+
+67. Assign abc to x
+x=abc
+
+68. Display zero length if length of x is zero
+if [ ${#x} -eq 0 ]; then echo "Zero Length"; fi
+
+69. Display non-zero length if length of x is non-zero
+if [ ${#x} -ne 0 ]; then echo "Non-zero Length"; fi
+
+70. Assign abc to y
+y=abc
+
+71. Display equal if x is equal to y
+if [ $x = $y ]; then echo "Equal"; fi
+
+72. Display not equal if x is not equal to y
+if [ $x != $y ]; then echo "Not Equal"; fi
+
+73. Assign querty to y
+y=querty
+
+74. Display equal if x is equal to y
+if [ $x = $y ]; then echo "Equal"; fi
+
+75. Display not equal if x is not equal to y
+if [ $x != $y ]; then echo "Not Equal"; fi

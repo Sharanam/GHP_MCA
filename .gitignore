@@ -2,3 +2,7 @@
 /dist/
 /.vscode/
 .DS_Store
+
+# my temporary files
+public/Materials/sharanam/git-ignored/
+public/locker/*
