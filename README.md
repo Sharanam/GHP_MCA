@@ -14,4 +14,4 @@
 (Mainly the assignments in this repo are done by me. However, it can also contain stuff done by others, along with credits of course.)
 
 # Deployment
-[https://sharanam.netlify.app/](https://sharanam.netlify.app/)
+[https://mg21040.netlify.app/](https://mg21040.netlify.app/)
