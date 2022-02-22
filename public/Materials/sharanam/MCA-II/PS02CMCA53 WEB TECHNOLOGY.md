@@ -90,7 +90,7 @@ Course Faculty: BVP
 - extensions of PHP files:
    - .php
    - .php3
-   - `.thtml` (I don't know what exactly sir spoke.)
+   - .phtml
 - Performance of PHP:
    - can be shown on the facebook page (which is made using php)
    - and can be compared with websites (like ojas - online job application) made with ASP.NET (it usually crashes even with less traffic)
