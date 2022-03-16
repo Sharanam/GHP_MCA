@@ -6,3 +6,4 @@
 # my temporary files
 public/Materials/sharanam/git-ignored/
 public/locker/*
+.config/dotnet-tools.json
