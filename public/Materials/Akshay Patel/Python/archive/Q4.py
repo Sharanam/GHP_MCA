@@ -1,0 +1,12 @@
+print(11 + 67)
+print(eval('34 + 89 - 64'))
+print(eval('(24 /2) + (89 % 4)'))
+print(eval('11 * 5 - (22 * 2)'))
+print(eval('25 ** 3 + (26 **3)'))
+print(eval('23 // 5 % 2'))
+
+print( 12 < 9 )
+print( 4 > 10)
+print(21 < 12 and 5 > 2 or 'a' =='A')
+print(21 > 12 and 5 > 2 or 'b' =='A' )
+print(23 != 25 and 26 == 26)
