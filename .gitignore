@@ -6,3 +6,5 @@
 # my temporary files
 public/Materials/sharanam/git-ignored/
 public/locker/*
+.config/dotnet-tools.json
+public/Materials/Prof JV Smart/PS02EMCA60 Embedded Systems and Iot/extractedResources/*

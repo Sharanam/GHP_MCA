@@ -99,4 +99,3 @@ Course Faculty: BVP
    2. Use (Functionality) (in meaning or theory)
    3. Examples
 ---
-<p align='right'>Date: 22/02/2022</p>
