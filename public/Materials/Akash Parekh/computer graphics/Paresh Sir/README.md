@@ -1,0 +1,1 @@
+CG Part1 to Part7 are just pdf version of files shared to us by Dr. PVV
