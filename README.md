@@ -15,3 +15,7 @@
 
 # Deployment
 [https://mg21040.netlify.app/](https://mg21040.netlify.app/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Sharanam/GHP_MCA&type=Date)](https://star-history.com/#Sharanam/GHP_MCA&Date)
